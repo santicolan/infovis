@@ -12,4 +12,4 @@
 [Interactive Flourish](https://santicolan.github.io/infovis/mom/w14.html)
 ### week 15 
 [Interactive Flourish Story](https://santicolan.github.io/infovis/mom/w15.html)
-[Interactive Flourish](https://santicolan.github.io/infovis/mom/w15.html)
+
