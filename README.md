@@ -1,4 +1,6 @@
 # infovis
+ ## TP Datos Personales: juegos de mesa
+ [Interactive Sankey diagram](https://santicolan.github.io/infovis/TPdatosPersonales.html)
 ## Makeover Monday 2020
 ### week 9
 [Interactive sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQin6DL5xm2aHQPo506siWHlgZl16_lZ1N4WgxtYgib8Z6r2xtKPmJTNPZJhNJJs-vFwItCxiF8roU4/pubchart?oid=1587389915&format=interactive)
@@ -12,6 +14,6 @@
 [Interactive Flourish](https://santicolan.github.io/infovis/mom/w14.html)
 ### week 15 
 [Interactive Flourish Story](https://santicolan.github.io/infovis/mom/w15.html)
- ## TP Datos Personales: juegos de mesa
+
  
 
