@@ -1,4 +1,4 @@
-# infovis
+# INFOVIS
  ## TP Datos Personales: juegos de mesa
  [Interactive Sankey diagram](https://santicolan.github.io/infovis/mom/TPdatosPerso.html)
 ## Makeover Monday 2020
